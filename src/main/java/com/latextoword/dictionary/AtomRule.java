@@ -503,7 +503,7 @@ public enum AtomRule {
     _OSLASH(2154,"&oslash;",new Atom(2154,"&oslash;"),0,0,0,0,OMathRule._OSLASH),
 	_AACUTE(2155,"&aacute;",new Atom(2155,"&aacute;"),0,0,0,0,OMathRule._AACUTE),
 	_ORDM(2156,"&ordm;",new Atom(2155,"&ordm;"),0,0,0,0,OMathRule._ORDM),
-
+	CHI(2157,"\\chi",new Atom(2157,"\\chi"),0,0,0,0,OMathRule.CHI),
 
 	;
 	private Integer  atomId;
